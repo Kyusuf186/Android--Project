@@ -1,4 +1,5 @@
 I am adding office new address
 <<<<<<< HEAD
 I am working from home now
-
+merge tool added
+merging tool installe in git
